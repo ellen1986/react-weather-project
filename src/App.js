@@ -20,7 +20,7 @@ export default function App() {
             open-sourced on github
           </a>
         </footer>
-        <Weather />
+        <Weather defaultcity="Edinburgh" />
       </div>
     </div>
   );
