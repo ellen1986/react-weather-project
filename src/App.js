@@ -19,6 +19,14 @@ export default function App() {
             rel="noreferrer"
           >
             open-sourced on github
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://festive-williams-838308.netlify.app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netlify
           </a>
         </footer>
       </div>
